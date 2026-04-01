@@ -512,13 +512,12 @@ footer .footer-below {
 
 .feature-pill {
     background: #fff;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.primary-dark }};
     padding: 8px 14px;
     border-radius: 20px;
     font-size: 14px;
     font-weight: 600;
-    border: 2px solid #{{ site.color.primary }};
-    transition: all 0.2s ease;
+    border: 2px solid #{{ site.color.primary-dark }};;
 }
 
 .feature-pill:hover {
