@@ -17,4 +17,12 @@ description: >
   Key features include dynamic form creation, allowing administrators to design and manage custom workflows, as well as daily and monthly attendance tracking. Integrated real-time notifications and implemented access logs for monitoring and audit purposes.
 
   Contributed across full-stack development using Java, Thymeleaf, and JavaScript within a 10-member Agile team.
+features:
+  - Dynamic form builder
+  - Attendance tracking system (daily/monthly)
+  - Approval workflow routing
+  - Role-based access control (RBAC)
+  - Notifications integration
+  - Slack integration
+  - Access logs and audit tracking
 ---

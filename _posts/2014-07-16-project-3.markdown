@@ -17,4 +17,11 @@ description: >
   Unlike dynamic workflow systems, this implementation focuses on predefined forms with configurable approval routing, allowing organizations to customize approval flows. Implemented overtime listing functionality where employees can apply for available overtime schedules.
 
   Additional features include notifications, access logging, and audit tracking. Contributed to both frontend and backend development within a collaborative Agile team.
+features:
+  - Predefined request forms
+  - Configurable approval routing
+  - Overtime listing and application system
+  - Role-based access control (RBAC)
+  - Notifications system
+  - Access logs and audit tracking
 ---

@@ -19,6 +19,14 @@
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
+            {% if post.features %}
+              <h4>Key Features</h4>
+              <ul class="list-unstyled">
+                {% for feature in post.features %}
+                  <li>• {{ feature }}</li>
+                {% endfor %}
+              </ul>
+            {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
               <li>Client:
