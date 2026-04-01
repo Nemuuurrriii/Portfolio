@@ -67,13 +67,11 @@ hr.star-primary:after {
 
 hr.star-light {
     border-color: #fff;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 hr.star-light:after {
     color: #fff;
     background-color: #{{ site.color.primary }};
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 hr.star-primary {
@@ -295,12 +293,12 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 3px #fff;
+    font-weight: bold;
     font-size: 20px;
     color: #fff;
     background: 0 0;
     transition: all .3s ease-in-out;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
     text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
