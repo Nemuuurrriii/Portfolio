@@ -1,13 +1,20 @@
 ---
 layout: default
 modal-id: 2
-date: 2024-03-06
-title: General Workflow Application
+date: 2023-03-01
+title: Cyzennt Workflow System
 img: cyzennt.png
 alt: image-alt
-project-date: March 2023
+project-date: March 2023 – Present
 client: Cyzennt Co.
 category: Web Development
-technology: Spring Boot, Javascript
-description: A web application for companies and professionals to easily build and create forms, approve forms, and confirm forms for their employees to submit. Individuals will be able to easily access and submit request forms for their higher-ups to approve/confirm.
+technology: Spring Boot, JavaScript
+description: >
+  Developed and maintained an enterprise workflow management system designed to handle internal business processes such as employee registration, leave requests, attendance tracking, and salary-related workflows.
+
+  Implemented RESTful APIs using Spring Boot with secure authentication and role-based access control using Spring Security and JWT. Optimized database queries to improve performance and ensure system reliability.
+
+  Key features include dynamic form creation, allowing administrators to design and manage custom workflows, as well as daily and monthly attendance tracking. Integrated real-time notifications and implemented access logs for monitoring and audit purposes.
+
+  Contributed across full-stack development using Java, Thymeleaf, and JavaScript within a 10-member Agile team.
 ---

@@ -1,13 +1,20 @@
 ---
 layout: default
 modal-id: 3
-date: 2024-05-26
-title: Fashion Website
-img: aspect.png
+date: 2024-04-01
+title: BC Workflow System
+img: bc-logo.png
 alt: image-alt
-project-date: April 2024
-client: Personal Team/Kawaii Studios
+project-date: April 2024 – January 2026
+client: Bridgeculture Inc.
 category: Web Development
-technology: ASP.NET 8
-description: A fashion web application can help the professionals belonging to the fashion industry in displaying or showcasing their craft. Fashionistas can pitch to a larger segment of the audience to maximize their sales.
+technology: Spring Boot, JavaScript
+description: >
+  Developed an internal workflow system used by 500–1,000 active users to manage employee requests such as leave applications, overtime tracking, and approval processes.
+
+  Built and maintained backend APIs using Spring Boot, implementing secure authentication and role-based access control with Spring Security and JWT. Improved system performance through database query optimization.
+
+  Unlike dynamic workflow systems, this implementation focuses on predefined forms with configurable approval routing, allowing organizations to customize approval flows. Implemented overtime listing functionality where employees can apply for available overtime schedules.
+
+  Additional features include notifications, access logging, and audit tracking. Contributed to both frontend and backend development within a collaborative Agile team.
 ---

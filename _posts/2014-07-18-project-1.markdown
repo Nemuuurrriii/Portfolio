@@ -9,5 +9,8 @@ project-date: December 2022
 client: Cyzennt Co.
 category: Web Development
 technology: Spring Boot
-description: A web application for registering preschools/schools with financial information and view the details of their schools. It also includes a way to import and export files and adding texts, processing of monthly financial information, etc. This project is developed using Spring Boot Application. As a member of the programming team under Cyzennt co., I worked on the frontend, backend, and the creation of documents relating to the project.
+description: Developed a full-stack web application for managing preschool registrations and financial data.
+  Implemented RESTful APIs using Spring Boot, including file import/export functionality and
+  monthly financial processing. Contributed across frontend, backend, and documentation
+  within a collaborative Agile team environment.
 ---
