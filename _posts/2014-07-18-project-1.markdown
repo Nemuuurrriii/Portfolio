@@ -6,7 +6,7 @@ title: Preschool Project
 img: cloudt.png
 alt: image-alt
 project-date: December 2022
-client: Cyzennt Co.
+client: Light Education
 category: Web Development
 technology: Spring Boot
 description: Developed a full-stack web application for managing preschool registrations and financial data.
