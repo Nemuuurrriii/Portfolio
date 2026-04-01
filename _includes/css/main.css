@@ -446,6 +446,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content .item-details {
     margin: 30px 0;
+    color: #{{ site.color.secondary-dark }};
 }
 
 .portfolio-modal .close-modal {
