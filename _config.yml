@@ -26,6 +26,7 @@ disqus_shortname: myshortname
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary: FFE2E2 #80B3FF
+  primary-dark: D3AAD1
   primary-rgb: "255,226,226" #"128,179,255"
   secondary: BAD7DF #FD6E8A
   secondary-dark: 99DDCC #A2122F
@@ -34,23 +35,21 @@ color:
 
 # Footer settings
 footer:
-  copyright: NemuriNemuri
+  copyright: Lj Sy
   location: Location
   social: My Socials
   credits: References
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/lj-sy-8bb70b3ba/
+  - title: github
+    url: http://github.com/Nemuuurrriii
   - title: twitter
     url: http://twitter.com/NemuriNemuri1
   - title: facebook
     url: https://www.facebook.com/Nemmmuuuiii
-  - title: youtube
-    url: https://www.youtube.com/channel/UCTIz0SCtZP-fCv5DaiS9fsA
-  - title: linkedin
-    url: https://www.linkedin.com/in/lory-jyll-sy-573489288/
-  - title: github
-    url: http://github.com/NemuriNemuri
 
 # Postal address (add as many lines as necessary)
 address:
@@ -60,11 +59,7 @@ address:
 # Credits content
 credits: '
 <ul class="list-inline">
-  <li>Glaze Exclamador | Cyzennt Co. | 09466077501</li>
-  <li>Karl Arboiz | Cyzennt Co. | 09300250061</li>
-  <li>Christian Lloyd Remo | Cyzennt Co. | 09179860290</li>
-  <li>Ara Salumbides | Kawaii Studios | 09225302664</li>
-  <li>Kim Sanchez | Kawaii Studios | 09653893472</li>
+  <li>Yoshiaki Okada | Bridgeculture Inc. | yoshi.okada25@gmail.com</li>
 </ul>'
 
 # Build settings

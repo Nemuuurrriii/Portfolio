@@ -21,6 +21,13 @@
             {% endif %}
             {% if post.project-url %}
             <p><a href="{{ post.project-url }}" target="_blank" rel="noopener noreferrer">Visit website</a></p>
+            {% if post.features %}
+              <h4 class="features-title">Key Features</h4>
+              <div class="features-container">
+                {% for feature in post.features %}
+                  <span class="feature-pill">{{ feature }}</span>
+                {% endfor %}
+              </div>
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}

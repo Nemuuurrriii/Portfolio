@@ -90,7 +90,10 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: linear-gradient(
+        rgba(255, 226, 226, 0.9),
+        rgba(255, 226, 226, 0.9)
+    ), #{{ site.color.primary }};
 }
 
 header .container {
@@ -109,11 +112,13 @@ header .intro-text .name {
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 2em;
     font-weight: 700;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
 }
 
 header .intro-text .skills {
     font-size: 1.25em;
     font-weight: 300;
+    text-shadow: 0 2px 6px rgba(0, 0, 0, 0.25);
 }
 
 @media(min-width:768px) {
@@ -288,11 +293,13 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
-    border: solid 2px #fff;
+    border: solid 3px #fff;
+    font-weight: bold;
     font-size: 20px;
     color: #fff;
     background: 0 0;
     transition: all .3s ease-in-out;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
 }
 
 .btn-outline:hover,
@@ -496,4 +503,35 @@ footer .footer-below {
 .modal.fade.in {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
+}
+
+.features-title {
+    margin-top: 30px;
+    font-size: 1.5em;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #{{ site.color.secondary }};
+}
+
+.features-container {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.feature-pill {
+    background: #fff;
+    color: #{{ site.color.primary-dark }};
+    padding: 8px 14px;
+    border-radius: 20px;
+    font-size: 14px;
+    font-weight: 600;
+    border: 2px solid #{{ site.color.primary-dark }};;
+}
+
+.feature-pill:hover {
+    background: #{{ site.color.primary }};
+    color: #fff;
 }
