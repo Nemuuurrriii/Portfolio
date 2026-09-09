@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" fill="none">
+  <rect width="900" height="650" fill="#0199C7"/>
+  <g transform="translate(150 185) scale(2)">
+  <!-- TAUK -->
+  <text x="150" y="88" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="80" fill="#ffffff" text-anchor="middle" letter-spacing="2">TAUK</text>
+  <!-- SOLUTIONS -->
+  <text x="150" y="122" font-family="Arial, sans-serif" font-weight="400" font-size="22" fill="#ffffff" text-anchor="middle" letter-spacing="8">SOLUTIONS</text>
+  </g>
+</svg>

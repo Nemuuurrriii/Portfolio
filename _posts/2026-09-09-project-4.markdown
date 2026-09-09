@@ -1,21 +1,27 @@
 ---
 layout: default
-modal-id: 4
-date: 2026-09-01
-title: Peripheral Test
-img: peripheraltest.png
+modal-id: 5
+date: 2026-04-15
+title: Tauk Dashboard
+img: tauk-logo-white.svg
 alt: image-alt
-project-date: September 2026
-client: Nemuri
+project-date: April 2026
+client: Tauk Solutions
 category: Web Development
-technology: React, Vite, TypeScript
-project-url: https://nemuri.site
-description: An SEO-focused utility website that lets users test their peripherals directly in the browser, including webcam, microphone, speakers, and headphones. The webcam test is the flagship tool, paired with the microphone test on the same page, while speakers and headphones are combined into a single test page. Built with privacy-first messaging ("test your webcam without uploading your video"), the site supports light and dark modes that default to the device's theme, and is structured around targeted long-tail keywords to rank on search engines. Developed independently using React, Vite, and TypeScript, with monetization through Google AdSense.
+technology: PHP Laravel
+project-url: https://taukdash.com
+description: >
+  Contributed to the development and modernization of TaukDash, a sales and performance dashboard used to monitor sales activity and performance metrics.
+
+  Worked on converting and modernizing parts of an existing legacy PHP application into a more structured CRM dashboard using PHP Laravel. Developed several pages and dashboard components, including data visualizations and performance metrics to make business information easier to monitor and understand.
+
+  Worked with an existing codebase and collaborated on implementing new features while maintaining the functionality of the legacy system. This project provided experience in modernizing legacy applications, working with existing business logic, and developing CRM-focused dashboards.
+
 features:
-  - Webcam test with FPS and video quality analytics
-  - Microphone test with decibel and quality analytics
-  - Combined speaker and headphone test
-  - Privacy-first design (no video/audio upload)
-  - Light and dark mode, defaulting to device theme
-  - Google AdSense monetization
+  - CRM dashboard
+  - Sales and performance metrics
+  - Data visualization and charts
+  - Legacy PHP code modernization
+  - Laravel-based development
+  - Dashboard pages and components
 ---

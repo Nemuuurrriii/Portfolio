@@ -1,0 +1,21 @@
+---
+layout: default
+modal-id: 5
+date: 2026-09-01
+title: Peripheral Test
+img: peripheraltest.png
+alt: image-alt
+project-date: September 2026
+client: Nemuri
+category: Web Development
+technology: React, Vite, TypeScript
+project-url: https://nemuri.site
+description: An SEO-focused utility website that lets users test their peripherals directly in the browser, including webcam, microphone, speakers, and headphones. The webcam test is the flagship tool, paired with the microphone test on the same page, while speakers and headphones are combined into a single test page. Built with privacy-first messaging ("test your webcam without uploading your video"), the site supports light and dark modes that default to the device's theme, and is structured around targeted long-tail keywords to rank on search engines. Developed independently using React, Vite, and TypeScript, with monetization through Google AdSense.
+features:
+  - Webcam test with FPS and video quality analytics
+  - Microphone test with decibel and quality analytics
+  - Combined speaker and headphone test
+  - Privacy-first design (no video/audio upload)
+  - Light and dark mode, defaulting to device theme
+  - Google AdSense monetization
+---
