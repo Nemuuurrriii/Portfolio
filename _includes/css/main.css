@@ -440,6 +440,10 @@ footer .footer-below {
     color: #{{ site.color.text-color }};
 }
 
+.portfolio-modal .modal-content a {
+    color: #{{ site.color.modal-link-color }};
+}
+
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
 }

@@ -1,11 +1,11 @@
 # Site settings
-title: NemuriNemuri
+title: Lj Sy
 email: ljsy2099@gmail.com
-url: https://github.com/NemuriNemuri
-description: "NemuriNemuri's Web Developer Portfolio! A dedicated and passionate web developer with 3.5 years of experience creating dynamic and responsive websites."
-keywords: "Web Developer, Developer, Software Developer, NemuriNemuri"
+url: https://github.com/Nemuuurrriii
+description: "Lj Sy's Web Developer Portfolio! A dedicated and passionate web developer with 3.5 years of experience creating dynamic and responsive websites."
+keywords: "Web Developer, Developer, Software Developer, Lj Sy"
 skills: "Web Developer - Software Developer - Game Developer"
-meta_author: NemuriNemuri
+meta_author: Lj Sy
 
 # Google webmaster tools
 google_verify:
@@ -30,6 +30,7 @@ color:
   secondary: BAD7DF #FD6E8A
   secondary-dark: 99DDCC #A2122F
   text-color: BA7A7A
+  modal-link-color: 80B3FF
 
 # Footer settings
 footer:
@@ -69,6 +70,8 @@ credits: '
 # Build settings
 markdown: kramdown
 permalink: pretty
+include:
+  - _pdfs
 
 #for posts
 defaults:
